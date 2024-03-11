@@ -15,6 +15,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 * Hint: The depth of the earth can be found as the third coordinate for each earthquake.
 * Include popups that provide additional information about the earthquake when its associated marker is clicked.
 * Create a legend that will provide context for your map data.
+## Deployment
 
 ## Installation and use
 Data source: UWA analystics bootcamp Software. Code is given/written using:
