@@ -16,6 +16,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 * Include popups that provide additional information about the earthquake when its associated marker is clicked.
 * Create a legend that will provide context for your map data.
 ## Deployment
+https://drishp98.github.io/leaflet-challenge/
 
 ## Installation and use
 Data source: UWA analystics bootcamp Software. Code is given/written using:
