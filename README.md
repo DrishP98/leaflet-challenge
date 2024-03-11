@@ -19,10 +19,9 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ## Installation and use
 Data source: UWA analystics bootcamp Software. Code is given/written using:
-* JavaScript file in Leaflet
-* D3 library
-* JSON file
-* CSS HTML document in Chrome
+* JavaScript and Leaflet
+* D3 JSON and leaflet geoJSON
+* CSS and HTML in Chrome
 * Python 3
 * Visual Studio Code 1.84.2
 
