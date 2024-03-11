@@ -7,7 +7,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 ## Part 1:
 1.Get your dataset. 
 * To do so, follow these steps: The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualise.
-* When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualisation.
+* When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualisation. For this challenge I have chosen "All earthquakes from the past 30 days".
 
 2. Import and visualise the data by doing the following:
 * Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
